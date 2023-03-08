@@ -1,6 +1,9 @@
 HELP.md
 .gradle
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/master
 ### Java template
 # Compiled class file
 *.class
@@ -138,6 +141,7 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+<<<<<<< HEAD
 
 =======
 build/
@@ -178,4 +182,6 @@ out/
 
 ### VS Code ###
 .vscode/
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
