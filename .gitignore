@@ -1,9 +1,6 @@
 HELP.md
 .gradle
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> origin/master
+
 ### Java template
 # Compiled class file
 *.class
